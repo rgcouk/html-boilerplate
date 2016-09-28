@@ -5,6 +5,8 @@ Hopefully it will be useful for other devs too, so please feel free to fork at y
 
 **Current version: 0.0.1 - last updated 2016-09-28.**
 
+----
+
 ### What's included?
 
 I've tried to include all of the useful things that people might need in their projects, without adding too much bloat to the core. Hopefully it should be customisable enough, but acts as a great starting point.
