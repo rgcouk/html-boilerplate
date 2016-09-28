@@ -17,10 +17,11 @@ HTML:
 - [HTML5 Boilerplate](https://html5boilerplate.com/) (Version 5.3.0) - [GitHub](https://github.com/h5bp/html5-boilerplate)
 
 CSS:
-- [Twitter Bootstrap](http://getbootstrap.com/) (Version 3.3.7) - [GitHub](https://github.com/twbs/bootstrap)
 - [FontAwesome](http://fontawesome.io/) (Version 4.6.3) - [GitHub](https://github.com/FortAwesome/Font-Awesome)
 - [IonIcons](http://ionicons.com/) (Version 2.0.1) - [GitHub](https://github.com/driftyco/ionicons)
+- [Twitter Bootstrap](http://getbootstrap.com/) (Version 3.3.7) - [GitHub](https://github.com/twbs/bootstrap)
 
 JavaScript:
 - [jQuery](https://jquery.com/) (Version 3.1.1) - [GitHub](https://github.com/jquery/jquery)
 - [LESS.js](http://lesscss.org/) (Version 2.7.1) - [GitHub](https://github.com/less/less.js/)
+- [Twitter Bootstrap](http://getbootstrap.com/) (Version 3.3.7) - [GitHub](https://github.com/twbs/bootstrap)
