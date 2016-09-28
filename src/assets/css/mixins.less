@@ -1,0 +1,27 @@
+.radius( @radius ) {
+  -webkit-border-radius: @radius;
+     -moz-border-radius: @radius;
+          border-radius: @radius;
+}
+
+.transform( @transform ) {
+  -webkit-transform: @transform;
+     -moz-transform: @transform;
+          transform: @transform;
+}
+
+.transition( @transition ) {
+  -webkit-transition: @transition;
+     -moz-transition: @transition;
+          transition: @transition;
+}
+
+// Utility functions:
+.clearfix {
+  &:after {
+    clear: both;
+    content: '';
+    display: table;
+    height: 0;
+  }
+}
